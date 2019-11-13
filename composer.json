@@ -1,0 +1,19 @@
+{
+    "name": "gutian/snowflake",
+    "description": "snowflake 算法",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "谷田",
+            "email": "gutian@guazi.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Snowflake\\": "src/"
+        }
+    }
+}
