@@ -1,5 +1,7 @@
 <?php
 
+namespace Snowflake;
+
 /**
  * Snowflake 算法
  * 生成 serialId
